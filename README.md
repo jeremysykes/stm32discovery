@@ -6,3 +6,5 @@ STM32 Discovery Board
 
 [GNU Toolchain for ARM Embedded Processors](https://github.com/osx-cross/homebrew-arm)
 
+[STLink](https://formulae.brew.sh/formula/stlink)
+
