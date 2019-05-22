@@ -2,4 +2,4 @@
 STM32 Discovery Board
 
 # Install
-(Homebrew)[https://brew.sh/]
+[Homebrew](https://brew.sh/)
