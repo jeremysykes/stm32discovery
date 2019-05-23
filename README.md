@@ -8,3 +8,4 @@ STM32 Discovery Board
 
 [STLink](https://formulae.brew.sh/formula/stlink)
 
+[Open OCD](https://formulae.brew.sh/formula/open-ocd)
